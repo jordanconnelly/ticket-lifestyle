@@ -24,21 +24,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
 <p>
-<img src="https://i.imgur.com/An7e1Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To create a ticket as an end user, type localhost/osTicket/ into the address bar & select "Open a New Ticket". The user will input their contact info & choose a help topic. After selecting the topic they will have space to provide information about the issue.
+<p>
+<img src="https://imgur.com/C9EfaWP.png" height="80%" width="80%">
+<img src="https://imgur.com/peZb2uU.png" height="80%" width="80%">
+<p>
+Upon login to the Agent Panel (localhost/osTicket/scp/login.php) you will see the tickets assigned to that Agent. If not, you may have to log back in as an admin and reset the agent's permissions and departments.
+</p>
+<img src="https://imgur.com/Wvcy1J3.png" height="80%" width="80%">
+<p>
+<p>
+After opening the ticket, the Agent assigned to it has the ability to manage the Status, Priority, Department, Assignment, and SLA level. 
+<img src="https://imgur.com/FzqB0Jw.png" height="80%" width="80%">
 </p>
 <p>
-Upon login of the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments. All tickets assigned to the agent will be on this screen. 
+Agents can send messages back to the person who opened the ticket to keep them updated & close the ticket once the issue has been resolved. Once the ticket is resolved it will move from the Agent's Open folder to the Closed folder.
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/MfIk5LV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The ticket gets assigned to an agent, along with priority settings and other ticket notes.
-</p>
+<img src="https://imgur.com/DeeJRsP.png" height="80%" width="80%">
+<img src="https://imgur.com/hIebffh.png" height="80%" width="80%">
 <br />
 
 <p>
