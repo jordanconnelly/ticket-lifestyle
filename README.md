@@ -44,14 +44,3 @@ Agents can send messages back to the person who opened the ticket to keep them u
 <img src="https://imgur.com/DeeJRsP.png" height="80%" width="80%">
 <img src="https://imgur.com/hIebffh.png" height="80%" width="80%">
 <br />
-
-<p>
-<img src="https://i.imgur.com/hp1qPsS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://i.imgur.com/8qgRGDt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-If the item is resolved, the agent will respond with news to the user and close the ticket. Even if the ticket is not resolved, the agent will send a progress update.
-</p>
-<br />
